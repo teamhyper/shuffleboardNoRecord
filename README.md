@@ -9,3 +9,6 @@ rather than needing to remember to stop recording everytime we load shuffleboard
 
 ## installation
 [download the jar](https://github.com/teamhyper/shuffleboardNoRecord/releases/latest) to `{USERDIR}\Shuffleboard\plugins`
+
+## more info
+Checkout the [shuffleboard wiki](https://github.com/wpilibsuite/shuffleboard/wiki/Plugins) for more info about plugins
